@@ -1,0 +1,9 @@
+Wrzucenie, pobranie, wypisanie:
+{"isMarried": true, "age": 35, "surname": "Boettcher", "name": "Donnie", "height": 180}
+
+Modyfikacja, pobranie, wypisanie:
+{"age": 36, "height": 180, "surname": "Boettcher", "isMarried": true, "name": "Donnie"}
+
+Usuniecie, pobranie:
+None
+
